@@ -1,1 +1,1 @@
-# Diabetes_Prediction
+Diabetes Prediction Project utilizes Support Vector Machines (SVM), a powerful machine learning algorithm, to accurately forecast the likelihood of diabetes onset in individuals. By analyzing various health metrics and lifestyle factors, our SVM model offers personalized predictions, aiding in early detection and proactive management of diabetes.
